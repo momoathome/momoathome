@@ -8,7 +8,6 @@ I work AI-first: coding agents like **Claude Code** and **Codex** write most of 
 
 - **[software-factory](https://github.com/momoathome/software-factory)**: Claude Code plugin that turns a feature request into reviewed code: spec → build → four parallel reviews (security, UX, UI, code) → human approval, each job in its own git worktree.
 - **[orions-frontier](https://github.com/momoathome/orions-frontier)**: Orion's Frontier v2, a persistent idle browser game in a shared galaxy. TypeScript monorepo with Fastify, WebSockets, Vue 3 and PixiJS.
-- **[project-browsergame](https://github.com/momoathome/project-browsergame)**: Orion's Frontier v1 with Laravel, Inertia, Vue 3 and MySQL.
 - **[vue-fastify-starter](https://github.com/momoathome/vue-fastify-starter)**: TypeScript monorepo starter: Vue 3, Fastify, Drizzle, shared Zod schemas for validation and OpenAPI, Vitest, Docker and CI.
 
 ## Stack
